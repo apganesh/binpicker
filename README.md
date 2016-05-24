@@ -8,3 +8,5 @@ Javascript / Google Maps for frontend
 =======
 # binpicker
 Find the TSP Tour
+
+https://binpicker-ga.herokuapp.com/
