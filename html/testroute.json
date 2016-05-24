@@ -1,0 +1,322 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "partial_match": true,
+            "place_id": "ChIJXyrmOufRj4ARJ6U6rcDhY3g",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "partial_match": false,
+            "place_id": "ChIJ9T_5iuTKj4ARe3GfygqMnbk",
+            "types": [
+                "locality",
+                "political"
+            ]
+        }
+    ],
+    "request": {
+        "destination": "San Jose, CA",
+        "origin": "Milpitas, CA",
+        "travelMode": "DRIVING"
+    },
+    "routes": [
+        {
+            "bounds": {
+                    "north": 37.4323816,
+                    "east": -121.8810378,
+                    "south": 37.3382088,
+                    "west": -121.9179697
+            },
+            "copyrights": "Map data \u00a92016 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "8.0 mi",
+                        "value": 12869
+                    },
+                    "duration": {
+                        "text": "16m57s",
+                        "value": 1017
+                    },
+                    "duration_in_traffic": {
+                        "text": "",
+                        "value": 0
+                    },
+                    "end_address": "San Jose, CA, USA",
+                    "end_location": {
+                        "lat": 37.3382088,
+                        "lng": -121.8863279
+                    },
+                    "start_address": "Milpitas, CA 95035, USA",
+                    "start_location": {
+                        "lat": 37.4323816,
+                        "lng": -121.8995772
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "1.2 mi",
+                                "value": 1858
+                            },
+                            "duration": {
+                                "text": "3m26s",
+                                "value": 206
+                            },
+                            "end_location": {
+                                "lat": 37.4255402,
+                                "lng": -121.9172138
+                            },
+                            "html_instructions": "Head <b>west</b> on <b>E Calaveras Blvd</b> toward <b>N Milpitas Blvd</b>",
+ "path": [
+                                {
+                                    "lat": 37.338210000000004,
+                                    "lng": -121.88633000000002
+                                },
+                                {
+                                    "lat": 37.338240000000006,
+                                    "lng": -121.88626000000001
+                                },
+                                {
+                                    "lat": 37.33831,
+                                    "lng": -121.88611000000002
+                                },
+                                {
+                                    "lat": 37.338460000000005,
+                                    "lng": -121.8858
+                                },
+                                {
+                                    "lat": 37.338710000000006,
+                                    "lng": -121.88526000000002
+                                },
+                                {
+                                    "lat": 37.33888,
+                                    "lng": -121.88490000000002
+                                },
+                                {
+                                    "lat": 37.338950000000004,
+                                    "lng": -121.88476000000001
+                                },
+                                {
+                                    "lat": 37.33921,
+                                    "lng": -121.8842
+                                },
+                                {
+                                    "lat": 37.3395,
+                                    "lng": -121.88360000000002
+                                },
+                                {
+                                    "lat": 37.339710000000004,
+                                    "lng": -121.88315000000001
+                                },
+                                {
+                                    "lat": 37.33997,
+                                    "lng": -121.88260000000001
+                                },
+                                {
+                                    "lat": 37.3402,
+                                    "lng": -121.88210000000001
+                                },
+                                {
+                                    "lat": 37.34049,
+                                    "lng": -121.88148000000001
+                                },
+                                {
+                                    "lat": 37.340700000000005,
+                                    "lng": -121.88104000000001
+                                },
+                                {
+                                    "lat": 37.341,
+                                    "lng": -121.88043
+                                },
+                                {
+                                    "lat": 37.341190000000005,
+                                    "lng": -121.88000000000001
+                                }
+                            ],                           
+                            "polyline": {
+                                "points": "k_ncFjo_gV?RFtAn@jLNtCDz@Dx@Dx@@`@B`@LdCLdCBd@BXBV@XDZBVBR@HBJDVFZFVFVZdAJXBHDJDJFNFLHLNXDHHNh@t@dA|At@dARVPTJJJHJJHFJFVLFDHBNFHBJ@XFzAR~@LRFVH^P`@VLJX\\JNLPDHDHDHBHBHFLBLFVHb@t@pEPtAn@tDLn@l@hCXxAr@xD?@DV@BHd@Jj@TjA"
+                            },
+                            "start_location": {
+                                "lat": 37.4323816,
+                                "lng": -121.8995772
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.8 mi",
+                                "value": 1334
+                            },
+                            "duration": {
+                                "text": "1m13s",
+                                "value": 73
+                            },
+                            "end_location": {
+                                "lat": 37.4163997,
+                                "lng": -121.9134446
+                            },
+                            "html_instructions": "Take the <b>Interstate 880 S</b> ramp to <b>San Jose</b>",
+                            "polyline": {
+                                "points": "stlcFp}bgVAD?BA@?@?B?@?B?B@B?F?H?HAHCLCJCDCHADIHIFC@KDA@A?EBI@G?G?ICEAGEECEGIIGKCMASAO?Q@OFQHOFILKJENEnDaAfCo@pFuAdB[|EcApBc@pA_@|Cw@DCbBk@|@]TIPElA_@xBo@dAUbAWrA_@VIJGFEFK"
+                            },
+                            "start_location": {
+                                "lat": 37.4255402,
+                                "lng": -121.9172138
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.2 mi",
+                                "value": 5116
+                            },
+                            "duration": {
+                                "text": "3m5s",
+                                "value": 185
+                            },
+                            "end_location": {
+                                "lat": 37.3713294,
+                                "lng": -121.9019594
+                            },
+                            "html_instructions": "Merge onto <b>I-880 S</b>",
+                            "polyline": {
+                                "points": "o{jcF~ebgVlG}AvOuDtD{@rM}CVGz@QjAU~@Qh@Id@IfAQ~AW~AUvCg@dVmDx@M\\EhCa@zGgAvIqAfC_@lEq@vCa@hVqDbXoDVEtASfC]nASxQsC~@O@?^G@?@?\\GjIoA`KwA~@OtAUrASlB[vO{B`@GpCa@vDk@LC`Dc@"
+                            },
+                            "start_location": {
+                                "lat": 37.4163997,
+                                "lng": -121.9134446
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 mi",
+                                "value": 377
+                            },
+                            "duration": {
+                                "text": "28s",
+                                "value": 28
+                            },
+                            "end_location": {
+                                "lat": 37.3680606,
+                                "lng": -121.9025976
+                            },
+                            "html_instructions": "Take exit <b>4C</b> toward <b>San Francisco</b>/<b>US 101 N</b>",
+                            "polyline": {
+                                "points": "yabcFf~_gVLLHDF@@?RC~@Gf@Cn@G`@CB?H?LAP@N?TDTFRFlB|@\\NTFHBHBF@N@|@HRB"
+                            },
+                            "start_location": {
+                                "lat": 37.3713294,
+                                "lng": -121.9019594
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 mi",
+                                "value": 214
+                            },
+                            "duration": {
+                                "text": "37s",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 37.3671913,
+                                "lng": -121.9008211
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Old Bayshore Hwy</b> (signs for <b>10th Street</b>)",
+                            "polyline": {
+                                "points": "kmacFfb`gVhAJBM@IJk@Fc@BWRmAJm@Hc@?CLe@?A?ALa@"
+                            },
+                            "start_location": {
+                                "lat": 37.3680606,
+                                "lng": -121.9025976
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "322 ft",
+                                "value": 98
+                            },
+                            "duration": {
+                                "text": "8s",
+                                "value": 8
+                            },
+                            "end_location": {
+                                "lat": 37.3664424,
+                                "lng": -121.9002462
+                            },
+                            "html_instructions": "Turn <b>right</b> toward <b>N 10th St</b>",
+                            "polyline": {
+                                "points": "}gacFbw_gVb@UJIZQh@]@AFEDC@C@CJM"
+                            },
+                            "start_location": {
+                                "lat": 37.3671913,
+                                "lng": -121.9008211
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.1 mi",
+                                "value": 3329
+                            },
+                            "duration": {
+                                "text": "6m22s",
+                                "value": 382
+                            },
+                            "end_location": {
+                                "lat": 37.3406964,
+                                "lng": -121.8810378
+                            },
+                            "html_instructions": "Slight <b>right</b> onto <b>N 10th St</b>",
+                            "polyline": {
+                                "points": "gcacFps_gVp@e@xDmCjGeENKXSl@a@@?DE@?NKJI`FeDr@g@t@i@zHkF`BgARO^WnCiBpA}@p@e@XUJIbAs@pBsArCmB|@o@vFyDrDeClL{H`JiGlAy@hL{HbLyH`HwE`HuElBsAzDiC"
+                            },
+                            "start_location": {
+                                "lat": 37.3664424,
+                                "lng": -121.9002462
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 mi",
+                                "value": 543
+                            },
+                            "duration": {
+                                "text": "1m38s",
+                                "value": 98
+                            },
+                            "end_location": {
+                                "lat": 37.3382088,
+                                "lng": -121.8863279
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>E Santa Clara St</b>",
+                            "polyline": {
+                                "points": "kb|bFn{{fVh@vAx@zBl@bBr@lBh@xAx@vBr@nBLZ`@fAp@jB\\|@L\\DL"
+                            },
+                            "start_location": {
+                                "lat": 37.3406964,
+                                "lng": -121.8810378
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ]
+                }
+            ],
+            "overview_polyline": {
+                "points": "k_ncFjo_gVFhB~@`QRpEb@rINfBL`A\\bBp@tB^v@hAhB`DpEl@h@t@^~@TzC`@j@P`Ah@f@h@d@t@Tj@Jd@~@tF`AjGz@xDlAtGP`A`@vBAHAH@REj@M`@SPOFSFO?OE][KYASAa@Ha@PYXQ~DgAxJeCbI_BbEcAbD{@`DiAnF_BhCm@jBi@RMFKlG}AlUqFjNeDpFcAlHiA|ZuEvASdLiB~MqBdJsAhVqDbXoDlBYvEq@xScDd@GjX_EnXaExJyA`Dc@LLPF|BO~AK^?d@Dh@NjClAp@PjDZfA_HLm@La@b@Uf@[x@i@BGJMp@e@dMsIh@_@l@a@zHiFzWsQd@_@tDgC|R}Mfg@{\\ta@{XzDiCh@vAfB~EjEnLrCxH"
+            },
+            "summary": "I-880 S and N 10th St",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ]
+}

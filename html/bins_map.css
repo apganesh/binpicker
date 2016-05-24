@@ -1,0 +1,101 @@
+
+#binloc-map { 
+  height: 100%;
+  width:75%;
+  position: absolute; 
+  top: 5px; 
+  bottom: 5px; 
+  left: 5px; 
+  right: 0; 
+  z-index: 0;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+#gmap-canvas {
+  height: 100%;
+  width:100%;
+  position: absolute; 
+  top: 5px; 
+  bottom: 5px; 
+  left: 5px; 
+  right: 5px; 
+  z-index: 0;
+}
+
+#searchbox {
+  z-index: 100;
+  top: 20px;
+  position: absolute;
+  width: 100%;
+  margin-left: 1%;
+  left: 20%;
+  
+}
+
+#pac-input {
+  background-color: #fff;
+  width: 40%;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 200;
+}
+
+#container {
+  height: 700px;
+  z-index: 100;
+  float: right;
+  width:24%;
+  position: relative;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 200;
+}
+
+#segments {
+  width: 100%;
+  overflow-y: auto;
+  max-height:625px;
+  font-family:Roboto;
+  font-size: 13px;
+  font-weight: 200;
+  text-overflow: ellipsis;
+}
+
+#restable {
+  width: 100%;
+  overflow-y: auto;
+  max-height:625px;
+  font-family:Roboto;
+  font-size: 13px;
+  font-weight: 200;
+  text-overflow: ellipsis;
+}
+
+.segments {
+  overflow-y: auto;
+}
+
+.segments tr:hover {
+  background-color: #C0C0C0;
+}
+
+#labels {
+  font-family:Roboto;
+  text-align: center;
+  font-weight: 200;
+  color: 'black';
+}
+
+.rightalign{
+    float:right;
+}
+
+.leftalign{
+    float:left;
+}
+
+ul {
+margin-left: -40px;
+}
